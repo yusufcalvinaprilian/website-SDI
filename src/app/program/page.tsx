@@ -3,10 +3,16 @@ import "@fortawesome/fontawesome-free/css/all.min.css";
 
 export default function ProgramPage() {
 	return (
-		<section className="bg-white dark:bg-gray-900">
-			<div className="py-8 px-4 mx-auto max-w-screen lg:py-16 grid lg:grid-cols-1 gap-8 lg:gap-16">
+		<section className="bg-white dark:bg-gray-900 mt-16">
+			<div className="py-4 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
+				<h1 className="text-center text-4xl font-bold text-gray-800 dark:text-white">Program Unggulan</h1>
+				<p className="text-center text-lg mt-6 w-2/2 px-4 lg:w-3/5 mx-auto  text-gray-800 dark:text-white">
+					Dalam dunia teknologi yang terus berkembang sekolah kami menonjol dengan enam program unggulan dalam teknologi, menciptakan landasan kuat bagi generasi masa depan yang sukses.
+				</p>
+			</div>
+			<div className="mt-10  px-4 mx-auto max-w-screen grid lg:grid-cols-1 gap-8 lg:gap-16">
 				{/* Quran Camp */}
-				<div className="relative pt-12">
+				<div className="relative mb-4">
 					<div className="items-center flex flex-wrap">
 						<div className="w-full md:w-4/12 ml-auto mr-auto px-4">
 							<Image alt="coding" className="max-w-full rounded-lg shadow-lg" src="/image.png" width={634} height={480} />
@@ -33,7 +39,7 @@ export default function ProgramPage() {
 				</div>
 
 				{/* English Camp */}
-				<div className="relative pt-12">
+				<div className="relative mb-4">
 					<div className="items-center flex flex-wrap">
 						<div className="w-full md:w-4/12 ml-auto mr-auto px-4">
 							<Image alt="coding" className="max-w-full rounded-lg shadow-lg" src="/image.png" width={634} height={480} />
@@ -60,7 +66,7 @@ export default function ProgramPage() {
 				</div>
 
 				{/* Sertifikasi IT */}
-				<div className="relative pt-12">
+				<div className="relative mb-4">
 					<div className="items-center flex flex-wrap">
 						<div className="w-full md:w-4/12 ml-auto mr-auto px-4">
 							<Image alt="coding" className="max-w-full rounded-lg shadow-lg" src="/image.png" width={634} height={480} />
@@ -87,7 +93,7 @@ export default function ProgramPage() {
 				</div>
 
 				{/* Syahadah Quran */}
-				<div className="relative pt-12">
+				<div className="relative mb-4">
 					<div className="items-center flex flex-wrap">
 						<div className="w-full md:w-4/12 ml-auto mr-auto px-4">
 							<Image alt="coding" className="max-w-full rounded-lg shadow-lg" src="/image.png" width={634} height={480} />
@@ -115,7 +121,7 @@ export default function ProgramPage() {
 				</div>
 
 				{/* Character Building */}
-				<div className="relative pt-12">
+				<div className="relative mb-4">
 					<div className="items-center flex flex-wrap">
 						<div className="w-full md:w-4/12 ml-auto mr-auto px-4">
 							<Image alt="coding" className="max-w-full rounded-lg shadow-lg" src="/image.png" width={634} height={480} />
@@ -140,7 +146,7 @@ export default function ProgramPage() {
 				</div>
 
 				{/* Try out bulanan */}
-				<div className="relative pt-12">
+				<div className="relative mb-4">
 					<div className="items-center flex flex-wrap">
 						<div className="w-full md:w-4/12 ml-auto mr-auto px-4">
 							<Image alt="coding" className="max-w-full rounded-lg shadow-lg" src="/image.png" width={634} height={480} />
