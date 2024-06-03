@@ -1,8 +1,7 @@
-import Image from "next/image";
 
 export default function News() {
 	return (
-		<section className="bg-white dark:bg-gray-900">
+		<section className="bg-white px-4 dark:bg-gray-900">
 			<div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 grid lg:grid-cols-2 gap-8 lg:gap-16">
 				<div className="flex flex-col justify-center">
 					<h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl lg:text-left dark:text-white text-center ">Generasi Revolusi Digital Dunia</h1>

@@ -11,7 +11,7 @@ export default function Navbar() {
 	};
 
 	return (
-		<nav className="fixed top-0 left-0 w-full bg-transparent z-50 dark:bg-gray-900">
+		<nav className="fixed top-0 left-0 w-full px-4 bg-transparent z-50 dark:bg-gray-800">
 			<div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
 				<div className="flex items-center space-x-3 rtl:space-x-reverse">
 					<Image src="/sdi.png" alt="Brand Logo" width={50} height={50} className="h-8 w-14" />
@@ -29,7 +29,7 @@ export default function Navbar() {
 					</svg>
 				</button>
 				<div className={`w-full md:block md:w-auto ${isOpen ? "block" : "hidden"}`} id="navbar-default">
-					<ul className="font-medium flex flex-col p-4 md:p-0 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0 md:bg-white dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
+					<ul className="font-medium flex flex-col p-4 md:p-0 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0 md:bg-white dark:bg-gray-800 md:dark:bg-gray-800 dark:border-gray-700">
 						<li>
 							<a
 								href="/"
