@@ -16,22 +16,22 @@ export default function Footer() {
 							<h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white ">QUICK LINKS</h2>
 							<ul className="text-gray-500 dark:text-gray-400 font-medium">
 								<li className="mb-2 ">
-									<a href="https://flowbite.com/" className="hover:underline">
+									<a href="/portofolio" className="hover:underline hover:text-slate-100">
 										Portofolio
 									</a>
 								</li>
 								<li className="mb-2">
-									<a href="https://tailwindcss.com/" className="hover:underline">
+									<a href="/program" className="hover:underline hover:text-slate-100">
 										Program
 									</a>
 								</li>
 								<li className="mb-2">
-									<a href="https://tailwindcss.com/" className="hover:underline">
+									<a href="/tentang" className="hover:underline hover:text-slate-100">
 										Tentang
 									</a>
 								</li>
 								<li>
-									<a href="https://tailwindcss.com/" className="hover:underline">
+									<a href="/kontak" className="hover:underline hover:text-slate-100">
 										Kontak
 									</a>
 								</li>
@@ -41,22 +41,22 @@ export default function Footer() {
 							<h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Follow us</h2>
 							<ul className="text-gray-500 dark:text-gray-400 font-medium">
 								<li className="mb-2">
-									<a href="https://github.com/themesberg/flowbite" className="hover:underline">
+									<a href="https://www.facebook.com/profile.php?id=61559051970117&locale=id_ID" target="_blank" className="hover:underline hover:text-slate-100">
 										Facebook
 									</a>
 								</li>
 								<li className="mb-2">
-									<a href="https://discord.gg/4eeurUVvTy" className="hover:underline">
+									<a href="https://www.instagram.com/sekolahdeveloperind/" target="_blank" className="hover:underline hover:text-slate-100">
 										Instagram
 									</a>
 								</li>
 								<li className="mb-2">
-									<a href="https://discord.gg/4eeurUVvTy" className="hover:underline">
+									<a href="https://www.youtube.com/@sekolahdeveloperind" target="_blank" className="hover:underline hover:text-slate-100">
 										Youtube
 									</a>
 								</li>
 								<li className="mb-2">
-									<a href="https://discord.gg/4eeurUVvTy" className="hover:underline">
+									<a href="https://www.tiktok.com/@kodein.sch" target="_blank" className="hover:underline hover:text-slate-100">
 										Tiktok
 									</a>
 								</li>
@@ -74,16 +74,16 @@ export default function Footer() {
 						. All Rights Reserved. Powered By Tim Creatives
 					</span>
 					<div className="flex justify-center mt-4">
-						<a href="https://www.facebook.com/profile.php?id=61559051970117&locale=id_ID" className="text-gray-500 hover:text-gray-900 dark:hover:text-white mx-2">
+						<a href="https://www.facebook.com/profile.php?id=61559051970117&locale=id_ID" target="_blank" className="text-gray-500 hover:text-gray-900 dark:hover:text-white mx-2">
 							<i className="fa-brands fa-facebook text-2xl"></i>
 						</a>
-						<a href="https://www.instagram.com/sekolahdeveloperind?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" className="text-gray-500 hover:text-gray-900 dark:hover:text-white mx-2">
+						<a href="https://www.instagram.com/sekolahdeveloperind?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" className="text-gray-500 hover:text-gray-900 dark:hover:text-white mx-2">
 							<i className="fa-brands fa-instagram text-2xl"></i>
 						</a>
-						<a href="https://www.youtube.com/@sekolahdeveloperind" className="text-gray-500 hover:text-gray-900 dark:hover:text-white mx-2">
+						<a href="https://www.youtube.com/@sekolahdeveloperind" target="_blank" className="text-gray-500 hover:text-gray-900 dark:hover:text-white mx-2">
 							<i className="fa-brands fa-youtube text-2xl"></i>
 						</a>
-						<a href="#" className="text-gray-500 hover:text-gray-900 dark:hover:text-white mx-2">
+						<a href="https://www.tiktok.com/@kodein.sch" target="_blank" className="text-gray-500 hover:text-gray-900 dark:hover:text-white mx-2">
 							<i className="fa-brands fa-tiktok text-2xl"></i>
 						</a>
 					</div>

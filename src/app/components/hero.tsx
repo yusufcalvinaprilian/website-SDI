@@ -10,7 +10,10 @@ export default function Hero() {
 				<p className="mb-4 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">Raih Masa Depan Cemerlang dengan Pendidikan IT Terbaik. Bergabunglah dengan Sekolah IT Boarding Setingkat SMA Kami Sekarang!</p>
 				<p className="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">Jadilah Bagian dari Revolusi Digital. Daftar di Sekolah Developer Indonesia dan Siapkan Diri untuk Karir Gemilang di Dunia Teknologi.</p>
 				<div className=" space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
-					<a href="/" className="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
+					<a
+						href="https://forms.gle/4JvCkUH2RvUT5eGd7"
+						className="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900"
+					>
 						Daftar Sekarang
 					</a>
 				</div>
