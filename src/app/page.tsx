@@ -1,5 +1,4 @@
 import Card from "./components/card";
-import Carousel from "./components/carousel";
 import Hero from "./components/hero";
 import News from "./components/news";
 import Stats from "./components/statistic";
@@ -13,7 +12,6 @@ export default function Home() {
 			<Stats />
 			<Card />
 			<Testimonial />
-			{/* <Carousel /> */}
 		</main>
 	);
 }
