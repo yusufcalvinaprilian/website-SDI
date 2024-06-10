@@ -29,7 +29,7 @@ export default function GaleriPage() {
 					<Image className="h-full max-w-full rounded-lg" src="/img/indoor.jpg" alt="." width={500} height={500} />
 				</div>
 				<div>
-					<Image className="h-full max-w-full rounded-lg" src="/img/img1.jpg" alt="." width={500} height={500} />
+					<Image className="h-full max-w-full rounded-lg" src="/img/jabatan1.jpg" alt="." width={500} height={500} />
 				</div>
 				<div>
 					<Image className="h-full max-w-full rounded-lg" src="/img/jabatan1.jpg" alt="." width={500} height={500} />
