@@ -49,34 +49,34 @@ export default function PortofolioPage() {
 						</div>
 					</div>
 					<div className="bg-slate-100 rounded-lg border shadow-md max-w-xs md:max-w-none overflow-hidden hover:scale-95 transition-all duration-300">
-						<Image className="h-56 lg:h-60 w-full  border" src="/portfol1.png" alt="portfolio" fetchPriority="high" width={500} height={500} />
+						<Image className="h-56 lg:h-60 w-full" src="/bromo.png" alt="portfolio" fetchPriority="high" width={500} height={500} />
 						<div className="p-3 hover:bg-slate-300 transition-all duration-200">
-							<h3 className=" text-md leading-6 text-gray-700 my-2">Is it time to ditch writing manual CSS? Of course not! With bootstrap, were able to make website faster than before!</h3>
+							<h3 className=" text-md leading-6 text-gray-700 my-2">Im dedicating time each day to learn HTML and CSS, essential building blocks for web design.</h3>
 							<p className="paragraph-normal text-blue-600">
-								<a href="https://barraihsan.kodeintekno.com/week-4/" target="_blank">
-									weekly assignment 3
+								<a href="https://muhammadabdullahazzam.kodeintekno.com/adventure-trip/" target="_blank">
+									daily assignment
 								</a>
 							</p>
 						</div>
 					</div>
 					<div className="bg-slate-100 rounded-lg border shadow-md max-w-xs md:max-w-none overflow-hidden hover:scale-95 transition-all duration-300">
-						<Image className="h-56 lg:h-60 w-full  border" src="/portfol1.png" alt="portfolio" fetchPriority="high" width={500} height={500} />
+						<Image className="h-56 lg:h-60 w-full" src="/coding.png" alt="portfolio" fetchPriority="high" width={500} height={500} />
 						<div className="p-3 hover:bg-slate-300 transition-all duration-200">
-							<h3 className=" text-md leading-6 text-gray-700 my-2">Is it time to ditch writing manual CSS? Of course not! With bootstrap, were able to make website faster than before!</h3>
+							<h3 className=" text-md leading-6 text-gray-700 my-2">My daily HTML and CSS practice is crucial for creating interactive and visually appealing websites.</h3>
 							<p className="paragraph-normal text-blue-600">
-								<a href="https://barraihsan.kodeintekno.com/week-4/" target="_blank">
-									weekly assignment 3
+								<a href="https://muhammadmulkyayyubi.kodeintekno.com/99x%20Designer%20Web/" target="_blank">
+									daily assignment
 								</a>
 							</p>
 						</div>
 					</div>
 					<div className="bg-slate-100 rounded-lg border shadow-md max-w-xs md:max-w-none overflow-hidden hover:scale-95 transition-all duration-300">
-						<Image className="h-56 lg:h-60 w-full  border" src="/portfol1.png" alt="portfolio" fetchPriority="high" width={500} height={500} />
+						<Image className="h-56 lg:h-60 w-full  border" src="/club.png" alt="portfolio" fetchPriority="high" width={500} height={500} />
 						<div className="p-3 hover:bg-slate-300 transition-all duration-200">
-							<h3 className=" text-md leading-6 text-gray-700 my-2">Is it time to ditch writing manual CSS? Of course not! With bootstrap, were able to make website faster than before!</h3>
+							<h3 className=" text-md leading-6 text-gray-700 my-2">Enhancing my HTML and CSS skills is my daily routine to become a proficient web developer.</h3>
 							<p className="paragraph-normal text-blue-600">
-								<a href="https://barraihsan.kodeintekno.com/week-4/" target="_blank">
-									weekly assignment 3
+								<a href="https://raisfatihulihsan.kodeintekno.com/multimedia-club/" target="_blank">
+									daily assignment
 								</a>
 							</p>
 						</div>

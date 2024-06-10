@@ -10,7 +10,7 @@ export default function Stats() {
 					<dl className="mb-6 grid grid-cols-1 gap-0.5 overflow-hidden rounded-2xl text-center sm:grid-cols-2 lg:grid-cols-4 pb-6  lg:pb-12">
 						<div className="flex flex-col bg-white/5 p-8">
 							<dt className="text-sm font-semibold leading-6 text-gray-300">berada dikawasan yang sangat luas</dt>
-							<dd className="order-first text-3xl font-semibold tracking-tight text-white">150M+</dd>
+							<dd className="order-first text-3xl font-semibold tracking-tight text-white">1500M+</dd>
 						</div>
 						<div className="flex flex-col bg-white/5 p-8">
 							<dt className="text-sm font-semibold leading-6 text-gray-300">kecepatan internet yang tak terbatas</dt>
