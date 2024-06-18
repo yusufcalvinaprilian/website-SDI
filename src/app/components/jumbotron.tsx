@@ -13,7 +13,7 @@ export default function Jumbotron() {
 					<a className="group rounded-lg relative inline-block overflow-hidden border border-indigo-600 px-8 py-3 focus:outline-none focus:ring" href="https://forms.gle/4JvCkUH2RvUT5eGd7" target="_blank">
 						<span className="absolute inset-x-0 top-0 h-[2px] bg-indigo-600 transition-all group-hover:h-full group-active:bg-indigo-500"></span>
 
-						<span className="relative text-sm font-medium text-indigo-500 transition-colors group-hover:text-white">Daftar Sekarang</span>
+						<span className="relative text-sm font-medium text-indigo-400 transition-colors group-hover:text-white">Daftar Sekarang</span>
 					</a>
 				</div>
 			</div>

@@ -17,7 +17,7 @@ export default function News() {
 						>
 							<span className="absolute inset-x-0 top-0 h-[2px] bg-indigo-600 transition-all group-hover:h-full group-active:bg-indigo-500"></span>
 
-							<span className="relative text-sm font-medium text-indigo-600 transition-colors group-hover:text-white">Baca Artikel</span>
+							<span className="relative text-sm font-medium text-indigo-400 transition-colors group-hover:text-white">Baca Artikel</span>
 						</a>
 					</div>
 				</div>
