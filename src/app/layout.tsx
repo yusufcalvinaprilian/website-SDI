@@ -21,7 +21,7 @@ export default function RootLayout({
 			<head>
 				<meta charSet="UTF-8" />
 				<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-				<link rel="icon" href="/sdi.png" /> 
+				<link rel="icon" href="/img/logoSDI.svg" /> 
 				<title>Sekolah Developer Indonesia</title>
 				<meta name="description" content="Sekolah Developer Indonesia" />
 			</head>

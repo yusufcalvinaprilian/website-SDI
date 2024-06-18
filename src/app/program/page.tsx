@@ -42,7 +42,7 @@ export default function ProgramPage() {
 				<div className="relative mb-4">
 					<div className="items-center flex flex-wrap">
 						<div className="w-full md:w-4/12 ml-auto mr-auto px-4">
-							<Image alt="coding" className="max-w-full rounded-lg shadow-lg hover:scale-90 transition-all duration-300" src="/img/english.jpg" width={634} height={480} />
+							<Image alt="coding" className="max-w-full rounded-lg shadow-lg hover:scale-90 transition-all duration-300" src="/img/sdi3.jpg" width={634} height={480} />
 						</div>
 						<div className="w-full md:w-5/12 ml-auto mr-auto px-4 text-white">
 							<div className="md:pr-12">
@@ -96,7 +96,7 @@ export default function ProgramPage() {
 				<div className="relative mb-4">
 					<div className="items-center flex flex-wrap">
 						<div className="w-full md:w-4/12 ml-auto mr-auto px-4">
-							<Image alt="coding" className="max-w-full rounded-lg shadow-lg hover:scale-90 transition-all duration-300" src="/img/streaming.jpeg" width={634} height={480} />
+							<Image alt="coding" className="max-w-full rounded-lg shadow-lg hover:scale-90 transition-all duration-300" src="/img/farhan1.jpeg" width={634} height={480} />
 						</div>
 						<div className="w-full md:w-5/12 ml-auto mr-auto px-4 text-white">
 							<div className="md:pr-12">
@@ -149,7 +149,7 @@ export default function ProgramPage() {
 				<div className="relative mb-14">
 					<div className="items-center flex flex-wrap">
 						<div className="w-full md:w-4/12 ml-auto mr-auto px-4">
-							<Image alt="coding" className="max-w-full rounded-lg shadow-lg hover:scale-90 transition-all duration-300" src="/img/tryout.jpeg" width={634} height={480} />
+							<Image alt="coding" className="max-w-full rounded-lg shadow-lg hover:scale-90 transition-all duration-300" src="/img/kodein2.jpeg" width={634} height={480} />
 						</div>
 						<div className="w-full md:w-5/12 ml-auto mr-auto px-4 text-white">
 							<div className="md:pr-12">

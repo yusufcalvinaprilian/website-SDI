@@ -11,13 +11,13 @@ export default function News() {
 					</p>
 					<div className="flex flex-col space-y-4 sm:flex-row sm:space-y-0">
 						<a
+							className="group rounded-lg relative inline-block overflow-hidden border border-indigo-600 px-8 py-3 focus:outline-none focus:ring"
 							href="https://tekno.kompas.com/read/2021/06/21/10030097/profesi-bidang-it-yang-banyak-dicari-5-tahun-ke-depan"
-							className="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900" target="_blank"
+							target="_blank"
 						>
-							Baca Artikel
-							<svg className="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-								<path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
-							</svg>
+							<span className="absolute inset-x-0 top-0 h-[2px] bg-indigo-600 transition-all group-hover:h-full group-active:bg-indigo-500"></span>
+
+							<span className="relative text-sm font-medium text-indigo-600 transition-colors group-hover:text-white">Baca Artikel</span>
 						</a>
 					</div>
 				</div>

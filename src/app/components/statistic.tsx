@@ -8,7 +8,7 @@ export default function Stats() {
 			<div className="mx-auto max-w-7xl px-6 lg:px-8">
 				<div className="mx-auto max-w-2xl lg:max-w-none">
 					<dl className="mb-6 grid grid-cols-1 gap-0.5 overflow-hidden rounded-2xl text-center sm:grid-cols-2 lg:grid-cols-4 pb-6  lg:pb-12">
-						<div className="flex flex-col bg-white/5 p-8">
+						<div className="flex flex-col bg-white/5 p-8 ">
 							<dt className="text-sm font-semibold leading-6 text-gray-300">berada dikawasan yang sangat luas</dt>
 							<dd className="order-first text-3xl font-semibold tracking-tight text-white">1500M+</dd>
 						</div>
