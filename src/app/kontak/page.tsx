@@ -2,11 +2,11 @@ import "@fortawesome/fontawesome-free/css/all.min.css";
 
 export default function KontakPage() {
 	return (
-		<section className="bg-white mt-16 lg:pb-10 pb-6 dark:bg-gray-900">
+		<section className="mt-16 lg:pb-10 pb-6 bg-gray-900">
 			<div className="container px-6 py-12 mx-auto">
 				<div className="mb-10">
-					<h1 className="font-bold text-4xl pt-4 text-black dark:text-white text-center">Hubungi Kami</h1>
-					<p className="mt-6 px-4 lg:w-3/5 mx-auto text-gray-500 dark:text-gray-400 text-center">
+					<h1 className="font-bold text-4xl pt-4 text-white text-center">Hubungi Kami</h1>
+					<p className="mt-6 px-4 lg:w-3/5 mx-auto text-gray-400 text-center">
 						Jangan ragu untuk menghubungi kami untuk informasi lebih lanjut mengenai program dan pendaftaran di sekolah kami. Tim kami siap membantu menjawab pertanyaan Anda dan memberikan detail yang Anda butuhkan
 					</p>
 				</div>
@@ -14,7 +14,7 @@ export default function KontakPage() {
 				<div className="grid grid-cols-1 px-6 gap-12 mt-32 lg:grid-cols-3 justify-center text-center lg:justify-start lg:text-left">
 					<div className="grid grid-cols-1 gap-12 sm:grid-cols-2 lg:grid-cols-1">
 						<div>
-							<span className="inline-block p-3 text-blue-500 rounded-full bg-blue-100/80 dark:bg-gray-800 hover:bg-gray-700 hover:border hover:border-blue-500">
+							<span className="inline-block p-3 text-blue-500 rounded-full bg-blue-100/80 bg-gray-800 hover:bg-gray-700 hover:border hover:border-blue-500">
 								<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" className="w-5 h-5">
 									<path
 										strokeLinecap="round"
@@ -24,9 +24,9 @@ export default function KontakPage() {
 								</svg>
 							</span>
 
-							<h2 className="mt-4 text-base font-medium text-gray-800 dark:text-white">Email</h2>
-							<p className="mt-2 text-sm text-gray-500 dark:text-gray-400">Tim kami siap membantu anda</p>
-							<p className="mt-2 text-sm text-blue-500 dark:text-blue-400">
+							<h2 className="mt-4 text-base font-medium text-slate-200">Email</h2>
+							<p className="mt-2 text-sm text-gray-400">Tim kami siap membantu anda</p>
+							<p className="mt-2 text-sm text-blue-400">
 								<a href="mailto:sekolahdeveloper.id@gmail.com" target="_blank" rel="noopener noreferrer">
 									sekolahdeveloper.id@gmail.com
 								</a>
@@ -34,16 +34,16 @@ export default function KontakPage() {
 						</div>
 
 						<div>
-							<span className="inline-block p-3 text-blue-500 rounded-full bg-blue-100/80 dark:bg-gray-800 hover:bg-gray-700 hover:border hover:border-blue-500">
+							<span className="inline-block p-3 text-blue-500 rounded-full bg-blue-100/80 bg-gray-800 hover:bg-gray-700 hover:border hover:border-blue-500">
 								<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" className="w-5 h-5">
 									<path strokeLinecap="round" strokeLinejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z" />
 									<path strokeLinecap="round" strokeLinejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z" />
 								</svg>
 							</span>
 
-							<h2 className="mt-4 text-base font-medium text-gray-800 dark:text-white">Lokasi</h2>
-							<p className="mt-2 text-sm text-gray-500 dark:text-gray-400">Cek alamat sekolah kami disini</p>
-							<p className="mt-2 text-sm text-blue-500 dark:text-blue-400">
+							<h2 className="mt-4 text-base font-medium text-slate-200">Lokasi</h2>
+							<p className="mt-2 text-sm text-gray-400">Cek alamat sekolah kami disini</p>
+							<p className="mt-2 text-sm text-blue-400">
 								<a href="https://maps.app.goo.gl/uGbW96Xagw5V92Nq6" target="_blank" rel="noopener noreferrer">
 									Sekolah Developer Indonesia
 								</a>
@@ -51,7 +51,7 @@ export default function KontakPage() {
 						</div>
 
 						<div>
-							<span className="inline-block p-3 text-blue-500 rounded-full bg-blue-100/80 dark:bg-gray-800 hover:bg-gray-700 hover:border hover:border-blue-500">
+							<span className="inline-block p-3 text-blue-500 rounded-full bg-blue-100/80 bg-gray-800 hover:bg-gray-700 hover:border hover:border-blue-500">
 								<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" className="w-5 h-5">
 									<path
 										strokeLinecap="round"
@@ -61,9 +61,9 @@ export default function KontakPage() {
 								</svg>
 							</span>
 
-							<h2 className="mt-4 text-base font-medium text-gray-800 dark:text-white">Phone</h2>
-							<p className="mt-2 text-sm text-gray-500 dark:text-gray-400">Segera hubungi tim kami</p>
-							<p className="mt-2 text-sm text-blue-500 dark:text-blue-400">
+							<h2 className="mt-4 text-base font-medium text-slate-200">Phone</h2>
+							<p className="mt-2 text-sm text-gray-400">Segera hubungi tim kami</p>
+							<p className="mt-2 text-sm text-blue-400">
 								<a href="https://wa.me/+6281703703111?text=Kami%20ingin%20mendapatan%20bantuan%20dan%informasi%20untuk%20pendaftaran" target="_blank" rel="noopener noreferrer">
 									+6281703703111
 								</a>

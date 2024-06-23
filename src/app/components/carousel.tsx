@@ -5,7 +5,7 @@ export default function GaleriPage() {
 		<section className="w-full mx-auto min-h-screen  bg-gray-900 p-8">
 			<div className="text-center mb-20">
 				<h1 className="text-4xl font-bold text-white">Galeri Kegiatan Santri</h1>
-				<p className="text-center text-lg mt-6 text-white dark:text-slate-300 lg:w-3/4 mx-auto">
+				<p className="text-center text-lg mt-6 text-slate-300 lg:w-3/4 mx-auto md:px-20">
 					Galeri foto kegiatan santri Sekolah Developer Indonesia yang kami laksanakan untuk menunjang pembelajaran, penanaman nilai-nilai positif, dan softskill yang harus dimiliki
 				</p>
 			</div>

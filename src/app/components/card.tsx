@@ -1,17 +1,17 @@
 export default function Card() {
 	return (
-		<section id="features" className="w-full mx-auto px-4 space-y-6 dark:bg-gray-900 py-8 md:py-12 lg:py-20">
+		<section id="features" className="w-full mx-auto px-4 space-y-6 bg-gray-900 py-8 md:py-12 lg:py-20">
 			<div className="py-8 px-4 mx-auto max-w-screen-xl">
-				<div className="mx-auto text-white flex pb-10 max-w-[58rem] flex-col items-center space-y-4 text-center">
+				<div className="mx-auto text-white flex pb-10 max-w-[58rem] flex-col items-center space-y-4 text-center mb-10">
 					<h2 className="font-bold pb-5 text-3xl leading-[1.1] sm:text-3xl lg:text-4xl">Karakter Dasar</h2>
-
-					<p className="max-w-[85%] leading-normal text-muted-foreground sm:text-lg sm:leading-7 dark:text-slate-300">
+					<p className="max-w-[85%] leading-normal text-muted-foreground sm:text-lg sm:leading-7 text-slate-300">
 						Kami membimbing siswa untuk menjadi individu mandiri yang siap mengambil inisiatif, bertanggung jawab dalam setiap tindakan, dan peduli terhadap sesama serta lingkungan. Dengan nilai-nilai ini, kami mencetak generasi yang tidak
 						hanya cerdas dalam teknologi, tetapi juga berakhlak mulia.
 					</p>
 				</div>
-				<div className="mx-auto grid justify-center gap-4 sm:grid-cols-2 md:max-w-[64rem] md:grid-cols-3 sm:p-10">
-					<div className="relative overflow-hidden rounded-lg  bg-white select-none p-2 transform transition-transform duration-300 hover:scale-105 hover:shadow-lg hover:shadow-slate-300 hover:bg-blue-600 group">
+
+				<div className="flex flex-col gap-6 sm:gap-8 lg:grid lg:grid-cols-3 md:px-6">
+					<div className="relative overflow-hidden rounded-lg bg-white select-none p-2 transform transition-transform duration-300 hover:scale-105 hover:shadow-lg hover:shadow-blue-300 hover:bg-blue-600 group">
 						<div className="flex flex-col justify-between rounded-md p-6 hover:bg-blue-500 group">
 							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="inherit" className="size-6 mx-auto group-hover:fill-white">
 								<path
@@ -21,11 +21,11 @@ export default function Card() {
 								/>
 							</svg>
 
-							<div className="space-y-2 ">
+							<div className="space-y-2">
 								<h3 className="font-bold text-center group-hover:text-white">Mandiri</h3>
 								<p className="text-sm group-hover:text-white">
-									Di era digital ini, kemampuan di bidang Teknologi menjadi salah satu keahlian yang sangat bernilai. Siswa-siswa jago IT yang mandiri memiliki kemampuan untuk memecahkan masalah, berinovasi, dan beradaptasi dengan cepat
-									terhadap perkembangan teknologi untuk menjadi garda terdepan dalam dunia yang semakin canggih.
+									Di era digital ini, kemampuan di bidang Teknologi menjadi salah satu keahlian yang sangat bernilai. Siswa-siswa jago IT yang mandiri memiliki kemampuan untuk memecahkan masalah, berinovasi, dan cepat beradaptasi dengan
+									dunia yang semakin berkembang.
 								</p>
 							</div>
 						</div>

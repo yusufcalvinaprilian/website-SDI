@@ -6,7 +6,7 @@ export default function PortofolioPage() {
 			<div className="py-8 px-4 mx-auto max-w-screen-xl">
 				<div className="mx-auto mb-20">
 					<h1 className="text-center font-bold text-4xl text-white">Portofolio Karya Santri</h1>
-					<p className="text-center text-lg mt-6 text-white dark:text-slate-300 w-3/4 mx-auto">
+					<p className="text-center text-lg mt-6 text-slate-300 lg:w-3/4 mx-auto">
 						Portofolio ini adalah bukti nyata dari ketekunan dan kerja keras para santri kami, yang telah berhasil menciptakan proyek-proyek inovatif dengan memanfaatkan pengetahuan yang diperoleh di Sekolah Developer Indonesia
 					</p>
 				</div>
