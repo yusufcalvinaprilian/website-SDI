@@ -1,4 +1,3 @@
-
 export default function News() {
 	return (
 		<section className="bg-white px-4 dark:bg-gray-900">
