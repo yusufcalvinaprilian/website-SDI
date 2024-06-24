@@ -20,7 +20,7 @@ export default function GaleriPage() {
 					<Image className="h-full max-w-full rounded-lg hover:scale-95 transition-all duration-200" src="/img/kelud.jpg" alt="." width={500} height={500} />
 				</div>
 				<div>
-					<Image className="h-full max-w-full rounded-lg hover:scale-95 transition-all duration-200" src="/img/kodein1.jpeg" alt="." width={500} height={500} />
+					<Image className="h-full max-w-full rounded-lg hover:scale-95 transition-all duration-200" src="/program/tarhib.jpeg" alt="." width={500} height={500} />
 				</div>
 				<div>
 					<Image className="h-full max-w-full rounded-lg hover:scale-95 transition-all duration-200" src="/img/english-tank.jpg" alt="." width={500} height={500} />
