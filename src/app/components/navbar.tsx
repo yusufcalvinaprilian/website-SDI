@@ -14,7 +14,7 @@ export default function Navbar() {
 		<nav className="fixed top-0 left-0 w-full px-4 z-50 bg-gray-800">
 			<div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
 				<div className="flex items-center space-x-3 rtl:space-x-reverse">
-					<Image src="/sdi.png" alt="Brand Logo" width={50} height={50} className="h-8 w-14" />
+					<Image src="/sdi.png" alt="Logo" width={50} height={50} className="h-8 w-14" />
 				</div>
 				<button
 					onClick={toggleMenu}
